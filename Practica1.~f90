@@ -18,4 +18,4 @@
          END IF
       END DO
       WRITE(*,*) 'This is the sum of the positive cubes:',SUM
-END
+      END
