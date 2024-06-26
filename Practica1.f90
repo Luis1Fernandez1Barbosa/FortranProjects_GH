@@ -1,4 +1,4 @@
-      PROGRAM CALCULATE
+PROGRAM CALCULATE
 !
 ! Program to calculate the sum of up to n values of x**3
 ! where negative values are ignored.
