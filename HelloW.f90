@@ -1,6 +1,6 @@
 program hellow
-    implicit none
-    write(*,*) 'Escribe el radio r:'
-    write(*,*) 'Area = '
-    !close(15)
-end program hellow
+    !implicit none
+    write(*,*) 'Hola Mundo!'
+    write(*,*) 'Desde Fortran'
+    close(15)
+end program
